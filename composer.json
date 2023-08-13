@@ -1,5 +1,5 @@
 {
-  "name": "socialiteproviders/osm",
+  "name": "mattcollins171/osm-socialite-provider",
   "description": "OSM OAuth2 Provider for Laravel Socialite",
   "license": "MIT",
   "authors": [
